@@ -1,4 +1,4 @@
-# IHC
+# UADYPoint
 
 # Integrantes
 
